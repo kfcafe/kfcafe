@@ -12,12 +12,6 @@ I build tools for AI agents and whatever else I'm interested in. By day I manage
 | [**uu**](https://github.com/kfcafe/uu) | Rust | Universal dev utilities. One command for every project, zero config. |
 | [**tinct**](https://github.com/kfcafe/tinct) | Elixir | Terminal UI framework. Elm-style components for the terminal. |
 
-## Contributor
-
-| Project | Role |
-|---|---|
-| [**OpenClaw**](https://github.com/openclaw/openclaw) | Personal AI assistant — runs on your devices, works across 20+ messaging channels |
-| [**Crush**](https://github.com/charmbracelet/crush) | Charm's terminal coding agent |
 
 ## Elsewhere
 
