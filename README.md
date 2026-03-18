@@ -1,4 +1,4 @@
-# Asher
+## About Me
 
 I build tools for AI agents and whatever else I'm interested in. By day I manage a small Italian restaurant. By night I write the software that lets coding agents work autonomously.
 
